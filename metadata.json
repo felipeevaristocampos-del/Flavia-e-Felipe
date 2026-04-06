@@ -1,0 +1,5 @@
+{
+  "name": "Elegance Wedding - Convite de Luxo",
+  "description": "Site de casamento personalizado com confirmação de presença, lista de presentes e painel administrativo.",
+  "requestFramePermissions": ["geolocation"]
+}
